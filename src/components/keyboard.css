@@ -77,7 +77,7 @@
   background-color: #555; /* Darker background for enter key */
   color: #fff;
 }
-App.css: .App {
+ .App {
 text-align: center;
 background-color: #282c34;
 min-height: 100vh;
